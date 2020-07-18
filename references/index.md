@@ -4,6 +4,7 @@
 
 ## Ebooks
 
+- Java Desktop by Ibnu Bima
 - [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
 - [Java: The Complete Reference, Eleventh Edition, 11th Edition](https://learning.oreilly.com/library/view/java-the-complete/9781260440249/)
 - [Core Java Volume I—Fundamentals, Eleventh Edition](https://learning.oreilly.com/library/view/core-java-volume/9780135167199/)

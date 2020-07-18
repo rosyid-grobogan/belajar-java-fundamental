@@ -35,11 +35,11 @@ Angka bulat saja (_integer_), kumpulan karakter saja (_char_), maupun kumpulan a
 
 ## Cara Membuat Array
 
-?> 3 hal yang harus kita lakukan:
-
-1. Mendeklarasikan variable array
-2. Menginisialisasi object array
-3. Mengisi array dengan data
+> 3 hal yang harus kita lakukan:
+>
+> 1. Mendeklarasikan variable array
+> 2. Menginisialisasi object array
+> 3. Mengisi array dengan data
 
 ## Langkah Pertama: Mendeklarasikan Array
 
