@@ -43,9 +43,7 @@ umur = new int[10] ;  // inisialisai sekaligus instansiasi dengan panjang array 
 
 Pengertian
 
-```
-"Penampung nilai dari sebuah tipe data"
-```
+?> "Penampung nilai dari sebuah tipe data"
 
 Cara Penulisan
 
