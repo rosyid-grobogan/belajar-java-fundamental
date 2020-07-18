@@ -2,21 +2,17 @@
 
 ---
 
-
-
 ## Mengenal Deklarasi, Inisialisasi dan Instansiasi
 
 ### Deklarasi
 
-**Deklarasi** adalah istilah untuk menyebut proses pembuatan variabel, dimana kita meminta compiler Java agar menyiapkan tempat di memory komputer untuk sebuah variabel. 
+**Deklarasi** adalah istilah untuk menyebut proses pembuatan variabel, dimana kita meminta compiler Java agar menyiapkan tempat di memory komputer untuk sebuah variabel.
 
-Misalnya: 
+Misalnya:
 
 ```java
 String[] nama ;
 ```
-
-
 
 ### Inisialisasi
 
@@ -30,8 +26,6 @@ Misalnya
 int angka = 5 ;
 ```
 
-
-
 ### Instansiasi
 
 Secara sederhana perintah instansiasi ditandai dengan keyword **new**.
@@ -43,10 +37,6 @@ int[] umur ;          // deklarasi
 umur = new int[10] ;  // inisialisai sekaligus instansiasi dengan panjang array 10 karakter
 ```
 
-
-
-
-
 # Data Structure
 
 ## Variable
@@ -56,8 +46,6 @@ Pengertian
 ```
 "Penampung nilai dari sebuah tipe data"
 ```
-
-
 
 Cara Penulisan
 
@@ -74,8 +62,6 @@ byte z = 22; // initializes z
 double pi = 3.14159 // declares an aproximation of pi
 char x = 'x'; // the variable x has the value 'x'
 ```
-
-
 
 ## Tipe Data
 
@@ -105,8 +91,6 @@ Kemudian dari 8 tipe data itu bisa kita kelompokkan menjadi 4 kelompok
 | int      |                       |            |         |
 | long     |                       |            |         |
 
-
-
 ### Tipe Data: Wrappers Class
 
 Pengertian
@@ -120,8 +104,6 @@ Pengertian
 - Bersifat Immutable
 
 > Immutable: Variable yang memegang objectnya bukan variable reference
-
-
 
 ### Tipe Data: Array
 
@@ -145,15 +127,13 @@ String[] nama = new String[5]
 
 Lalu bagaimana jika kita memiliki 10.000 data nama user dan ingin menampilkannya?
 
-
-
 **Pengertian**
 
-> **“Array adalah object bawaan java yang dapat menyimpan kumpulan data dengan tipe data yang sama.”**
+?> "Array adalah object bawaan java yang dapat menyimpan kumpulan data dengan tipe data yang sama."
 
-Misalnya: 
+Misalnya:
 
-Angka bulat saja (*integer*), kumpulan karakter saja (*char*), maupun kumpulan angka pecahan saja (*double*). Di dalam bahasa Java, kita tidak bisa membuat 1 array dengan berbeda tipe data (harus 1 jenis saja).
+Angka bulat saja (_integer_), kumpulan karakter saja (_char_), maupun kumpulan angka pecahan saja (_double_). Di dalam bahasa Java, kita tidak bisa membuat 1 array dengan berbeda tipe data (harus 1 jenis saja).
 
 - bisa menyimpan tipe data primitif, wrapper class maupun reference
 - Tempat hidup: HEAP
@@ -165,8 +145,6 @@ Cara Membuat Array
 > 1. Mendeklarasikan variable array
 > 2. Menginisialisasi object array
 > 3. Mengisi array dengan data
-
-
 
 Langkah Pertama: Mendeklarasikan Array
 
@@ -186,6 +164,3 @@ Deklarasi Array Multi dimensi
 String[][]		// array 2 dimensi
 String[][][]    // array 3 dimensi
 ```
-
-
-
