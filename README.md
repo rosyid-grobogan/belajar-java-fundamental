@@ -41,17 +41,17 @@ umur = new int[10] ;  // inisialisai sekaligus instansiasi dengan panjang array 
 
 ## Variable
 
-Pengertian
+**Pengertian**
 
 ?> "Penampung nilai dari sebuah tipe data"
 
-Cara Penulisan
+**Cara Penulisan**
 
 ```
 type identifier [ = value ][, identifier [= value ] …];
 ```
 
-Contoh
+**Contoh**
 
 ```java
 int a, b, c; // declares three int: a, b, and c
@@ -91,17 +91,15 @@ Kemudian dari 8 tipe data itu bisa kita kelompokkan menjadi 4 kelompok
 
 ### Tipe Data: Wrappers Class
 
-Pengertian
+**Pengertian**
 
-```
-"Tipe data bawaan java yang berupa object"
-```
+?> "Tipe data bawaan java yang berupa object"
 
 - Setiap data primitif mempunyai padanan di wrapper class
 - Wrapper berupa Class
 - Bersifat Immutable
 
-> Immutable: Variable yang memegang objectnya bukan variable reference
+!> Immutable: Variable yang memegang objectnya bukan variable reference
 
 ### Tipe Data: Array
 
@@ -111,13 +109,13 @@ Ketika kita ingin menyimpan 5 buah nilai dari nama user
 
 Jika kita membuatnya tanpa array, maka kita harus menyiapkan 5 buah variabel
 
-Tanpa Array
+**Tanpa Array**
 
 ```java
 String nama1, nama2, nama3, nama4, nama5
 ```
 
-Menggunakan Array
+**Menggunakan Array**
 
 ```java
 String[] nama = new String[5]
@@ -136,15 +134,15 @@ Angka bulat saja (_integer_), kumpulan karakter saja (_char_), maupun kumpulan a
 - bisa menyimpan tipe data primitif, wrapper class maupun reference
 - Tempat hidup: HEAP
 
-Cara Membuat Array
+**Cara Membuat Array**
 
-> 3 hal yang harus kita lakukan:
->
-> 1. Mendeklarasikan variable array
-> 2. Menginisialisasi object array
-> 3. Mengisi array dengan data
+?> 3 hal yang harus kita lakukan:
 
-Langkah Pertama: Mendeklarasikan Array
+1. Mendeklarasikan variable array
+2. Menginisialisasi object array
+3. Mengisi array dengan data
+
+**Langkah Pertama: Mendeklarasikan Array**
 
 Java menyediakan 2 Cara untuk mendeklarasikan array
 
@@ -156,7 +154,7 @@ Java menyediakan 2 Cara untuk mendeklarasikan array
 | Preferred way   | Work but not preferred way |
 | `String[] nama` | `String nama[]`            |
 
-Deklarasi Array Multi dimensi
+**Deklarasi Array Multi dimensi**
 
 ```java
 String[][]		// array 2 dimensi
