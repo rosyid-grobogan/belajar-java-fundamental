@@ -2,6 +2,8 @@
 
 ---
 
+Ketika kita belajar tipe data di java, kita akan mendapati bahwa java menyediakan 2 tipe data.
+
 Ada 8 Tipe Data Primitive (Simple types)
 
 1. byte
