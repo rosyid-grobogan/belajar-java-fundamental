@@ -1,6 +1,7 @@
 - [Java Fundamental](/)
 - [Mengenal Java](/)
   - [Mengenal Istilah](/introduction/istilah.md)
+  - [Code Style](introduction/code-style.md)
 - [Data Structures](data-structures/index.md)
   - [Variables dan Constanta](/data-structures/variables-constanta.md)
   - [Tipe Data](/data-structures/data-types.md)
