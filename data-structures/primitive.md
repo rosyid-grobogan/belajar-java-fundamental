@@ -1,6 +1,12 @@
-# Tipe Data: Primitif
+# Tipe Data: Primitive (Primitif)
 
 ---
+
+Pengertian
+
+?> "Tipe data non-object yang merupakan bentuk tipe dasar yang disediakan oleh Java"
+
+
 
 Ketika kita belajar tipe data di java, kita akan mendapati bahwa java menyediakan 2 tipe data.
 
@@ -13,6 +19,14 @@ Ada 8 Tipe Data Primitive (Simple types)
 5. float
 6. double
 7. boolean
+
+?> Tipe data primitive kadan juga disebut `simple type`.
+
+Dicirikan: Primitive
+
+> - [x] Non-Object
+>
+> - [x] Tipe data yang paling dasar/sederhana
 
 Kemudian dari 8 tipe data itu bisa kita kelompokkan menjadi 4 kelompok
 

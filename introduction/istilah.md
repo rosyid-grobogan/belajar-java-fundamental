@@ -34,3 +34,13 @@ Misalnya:
 int[] umur ;          // deklarasi
 umur = new int[10] ;  // inisialisai sekaligus instansiasi dengan panjang array 10 karakter
 ```
+
+
+
+## Summary
+
+> **Deklarasi**: kode yang dituliskan.
+>
+> **Inisialisasi**: Memberikan nilai data.
+>
+> **Instansiasi**: Membuat object baru dari class.

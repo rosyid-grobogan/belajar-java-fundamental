@@ -2,7 +2,7 @@
 - [Mengenal Java](/)
   - [Mengenal Istilah](/introduction/istilah.md)
 - [Data Structures](data-structures/index.md)
-  - [Variables](/data-structures/variables.md)
+  - [Variables dan Constanta](/data-structures/variables-constanta.md)
   - [Tipe Data](/data-structures/data-types.md)
     - [Primitive](data-structures/primitive.md)
     - [Array](data-structures/array.md)

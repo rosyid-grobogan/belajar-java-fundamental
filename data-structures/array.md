@@ -59,3 +59,7 @@ Java menyediakan 2 Cara untuk mendeklarasikan array
 String[][]		// array 2 dimensi
 String[][][]    // array 3 dimensi
 ```
+
+
+
+> Saya berharap penjelasan ini mudah dipahami oleh teman-teman yang belajar Java.
