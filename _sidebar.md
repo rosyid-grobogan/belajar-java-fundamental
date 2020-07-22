@@ -1,4 +1,9 @@
 - [Java Fundamental](/)
+  - [Sebelum Belajar](/quick-started/sebelum-belajar)
+- [Persiapan Koding]()
+  - Instal Java JDK
+  - Pengaturan path
+  - Text Editor IDE
 - [Mengenal Java](/)
   - [Mengenal Istilah](/introduction/istilah.md)
   - [Code Style](introduction/code-style.md)
@@ -8,4 +13,9 @@
     - [Primitive](data-structures/primitive.md)
     - [Array](data-structures/array.md)
     - [Wrappers Class](data-structures/wrappers-class.md)
+- Control Structures
+  - Struktur Runtunan
+  - Struktur Percabangan
+  - Struktur Perulangan
 - [References](references/index.md)
+
