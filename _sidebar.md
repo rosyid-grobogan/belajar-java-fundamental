@@ -7,15 +7,16 @@
 - [Mengenal Java](/)
   - [Mengenal Istilah](/introduction/istilah.md)
   - [Code Style](introduction/code-style.md)
-- [Data Structures](data-structures/index.md)
+- [**Data Structures**](data-structures/index.md)
   - [Variables dan Constanta](/data-structures/variables-constanta.md)
   - [Tipe Data](/data-structures/data-types.md)
     - [Primitive](data-structures/primitive.md)
     - [Array](data-structures/array.md)
     - [Wrappers Class](data-structures/wrappers-class.md)
-- Control Structures
+- [**Control Structures**](/flow-control/3-flow-control.md)
   - Struktur Runtunan
   - Struktur Percabangan
-  - Struktur Perulangan
+  - [Struktur Perulangan](/flow-control/perulangan.md)
+    - [for](/flow-control/for.md)
+  - [Summaries](flow-control/summaries.md)
 - [References](references/index.md)
-
