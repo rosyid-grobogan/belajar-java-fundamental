@@ -1,10 +1,10 @@
-- [Java Fundamental](/)
+- [**Java Fundamental**](/)
   - [Sebelum Belajar](/quick-started/sebelum-belajar)
-- [Persiapan Koding]()
+- [**Persiapan Koding**]()
   - Instal Java JDK
   - Pengaturan path
   - Text Editor IDE
-- [Mengenal Java](/)
+- [**Mengenal Java**](/)
   - [Mengenal Istilah](/introduction/istilah.md)
   - [Code Style](introduction/code-style.md)
 - [**Data Structures**](data-structures/index.md)
@@ -18,5 +18,5 @@
   - Struktur Percabangan
   - [Struktur Perulangan](/flow-control/perulangan.md)
     - [for](/flow-control/for.md)
-  - [Summaries](flow-control/summaries.md)
-- [References](references/index.md)
+  - [**Summaries**](flow-control/summaries.md)
+- [**References**](references/index.md)
