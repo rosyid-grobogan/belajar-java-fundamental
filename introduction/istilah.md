@@ -1,3 +1,11 @@
+# Mengenal Istilah
+
+## Compiling
+
+*Compiling* adalah proses ketika Java mengubah Java code (file.java) menjadi Java *bytecode * (file.class)
+
+mengubah file.java menjadi file.class
+
 # Mengenal Deklarasi, Inisialisasi dan Instansiasi
 
 ---
